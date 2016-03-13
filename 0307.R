@@ -19,3 +19,5 @@ is.integer(a)
 ?a
 ??a
 is.numeric(a)
+is.numeric(b)
+is.array(x)
