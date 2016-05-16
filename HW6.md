@@ -115,7 +115,7 @@ ggplot(data.sumYear,aes(YEAR,variable))+#x軸為year，y軸為variable
 ```
 
 __結果：__
-![alt text](https://github.com/view102483/BigDataAnalysis/master/photo.png)
+![alt text](https://raw.githubusercontent.com/view102483/BigDataAnalysis/master/photo.png)
 
 __解釋圖形__
 小兒麻痺一開始在1928年並不沒有很嚴重，到約1945左右開始爆發，1955年左右突然趨近於零，是因為小兒麻痺疫苗開始接種，發現在賓州、西維吉尼亞洲及維吉尼亞洲的小兒麻痺較其他州少很多，是源於疫苗於賓州匹茲堡的阿森納小學（Arsenal Elementary School）與華生兒童之家（Watson Home for Children）展開試驗。後又於維吉尼亞洲展開大規模的試驗，所以相比於其他州，這兩州患有小兒麻痺的較少
